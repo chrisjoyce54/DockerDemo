@@ -23,3 +23,4 @@ ENTRYPOINT ["dotnet", "DemoCoreWebAPI.dll"]
 
 #docker build --rm -t poc/democorewebapi:latest .
 #docker run --rm -d -p 8080:80 poc/democorewebapi
+#
